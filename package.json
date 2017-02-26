@@ -1,0 +1,12 @@
+{
+  "main": "app.js",
+  "name": "news-reader",
+  "description": "simple newsfeed reader app using tabris.js",
+  "version": "0.0.1-beta",
+  "author": "FrencoJobs",
+  "author-email": "frenco.willian@gmail.com",
+  "author-url": "http://frencojobs.ga",
+  "dependencies": {
+    "tabris": "^2.0.0-beta1"
+  }
+}

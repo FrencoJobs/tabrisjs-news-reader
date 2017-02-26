@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='utf-8'?>
+<widget id="my.tabris.app" version="1.0.0">
+  <name>NewsReader</name>
+  <description>
+   
+ A sample Tabris.js application.
+  
+Sample news feed reader app using tabris.js.
+It's just simple.It doesn't contain hybrid app features such as bookmark, localstorage,and others.
+It's is just simple to show you how to create a new reader app using tabris.js and news api(only json;not xml).
+Used the next web api from newsAPI(https://newsapi.org).
+</description>
+  
+<author email="frenco.willian@gmail.com" href="https://frencojobs.ga">
+
+    Frenco Jobs
+  </author>
+
+</widget>

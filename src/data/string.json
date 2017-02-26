@@ -1,0 +1,4 @@
+{
+"title": "feedo",
+"fetchURL": "https://newsapi.org/v1/articles?source=the-next-web&sortBy=latest&apiKey=c1424166d48b482fa07a3a730d89c567"
+}
