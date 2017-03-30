@@ -1,4 +1,4 @@
-###News reader app using tabris js
+### News reader app using tabris js
 
 A simple tabris app.
 This app is a simple app using [tabris.js](http://tabrisjs.com)
